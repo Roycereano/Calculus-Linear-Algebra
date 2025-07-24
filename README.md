@@ -1,4 +1,4 @@
-# Calculus-Linear-Algebra
+# Calculus-LinearAlgebra
 
 # Calculus & Linear Algebra for AI and Cybersecurity
 
